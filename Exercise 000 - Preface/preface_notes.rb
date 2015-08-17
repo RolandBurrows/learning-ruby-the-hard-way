@@ -1,3 +1,5 @@
+# http://learnrubythehardway.org/book/preface.html
+
 # "Hard" way because it uses a technique called instruction.
 
 # - Instruction: do a sequence of controlled exercises designed to build a
