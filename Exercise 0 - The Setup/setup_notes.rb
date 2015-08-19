@@ -1,3 +1,5 @@
+# http://learnrubythehardway.org/book/ex0.html
+
 # OSX Instructions:
 # - Instead of TextWrangler, Roland's text editor of choice is Sublime Text 2
 # - Shell choice: default Terminal
