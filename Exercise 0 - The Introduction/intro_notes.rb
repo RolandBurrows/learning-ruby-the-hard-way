@@ -15,8 +15,8 @@
 # - Spotting differences
 
 # Do Not Copy-Paste
-# You must type each of these exercises in, manually.
-# If you copy and paste, you might as well not even do them.
+# - You must type each of these exercises in, manually.
+# - If you copy and paste, you might as well not even do them.
 
 # Use the reference videos only after completing the exercise or getting stuck.
 
