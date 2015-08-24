@@ -8,5 +8,5 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Intro       | 8-16-2015     | 8-16-2015     | 0.75          | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%200%20-%20The%20Introduction) |
 | Setup       | 8-19-2015     | 8-19-2015     | 0.25          | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%200%20-%20The%20Setup) |
 | Exercise 01 | 8-19-2015     | 8-19-2015     | 0.50          | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%201%20-%20A%20Good%20First%20Program) |
-| Exercise 02 | 8-23-2015     | 8-23-2015     | 0.25          | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%202%20-%20Comments%20and%20Pound%20Characters) |
+| Exercise 02 | 8-23-2015     | 8-23-2015     | 0.25          | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%2002%20-%20Comments%20and%20Pound%20Characters) |
 | **Totals**  | **8-16-2015** | **Ongoing**   | **2.00**      | -    |
