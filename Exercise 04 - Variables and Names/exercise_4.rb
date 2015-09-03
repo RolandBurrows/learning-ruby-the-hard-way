@@ -15,3 +15,7 @@ puts "There will be (#{cars_not_driven}) empty cars today."
 puts "We can carpool (#{carpool_capacity}) people today."
 puts "We have (#{passengers}) people to carpool today."
 puts "We need to put (#{average_passengers_per_car}) people in each car."
+
+# Study Drills
+# 1. Changing car_capacity to 4 alters carpool_capacity output to 120 instead of 120.0.
+#    This results in truncated values after the decimal point, results in inaccurate calculations.
