@@ -12,4 +12,5 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 03 | 8-28-2015     | 9-01-2015     | 0.50          | 2.25         | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%2003%20-%20Numbers%20and%20Math) |
 | Exercise 04 | 9-02-2015     | 9-02-2015     | 0.50          | 0.25         | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%2004%20-%20Variables%20and%20Names) |
 | Exercise 05 | 9-02-2015     | 9-03-2015     | 0.50          | 0.50         | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%2005%20-%20More%20Variables%20and%20Printing) |
-| **Totals**  | **8-16-2015** | **Ongoing**   | **3.50**      | **3.00**     | -    |
+| Exercise 06 | 9-03-2015     | 9-03-2015     | 0.25          | 0.25         | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%2006%20-%20Strings%20and%20Text) |
+| **Totals**  | **8-16-2015** | **Ongoing**   | **3.75**      | **3.25**     | -    |
