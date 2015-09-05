@@ -2,7 +2,7 @@
 Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 
 ### Progress Chart!
-| Exercise    | Topic     | Day Started   | Day Completed | Hours to Grok | Study Drills | Notes |
+| Exercise    | Topic     | Started       | Completed     | Grok Hours    | Study Drills | Notes |
 |:-----------:|:---------:|:-------------:|:-------------:|:-------------:|:------------:|:-----:|
 | Preface     | Setup     | 8-16-2015     | 8-16-2015     | 0.25          |              | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%200%20-%20Preface) |
 | Intro       | Setup     | 8-16-2015     | 8-16-2015     | 0.75          |              | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%200%20-%20The%20Introduction) |
