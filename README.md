@@ -15,4 +15,5 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 06 | Strings   | 9-03-2015     | 9-03-2015     | 0.25          | 0.25         | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%2006%20-%20Strings%20and%20Text) |
 | Exercise 07 | Printing  | 9-04-2015     | 9-04-2015     | 0.25          | 0.00         | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%2007%20-%20More%20Printing) |
 | Exercise 08 | Printing  | 9-05-2015     | 9-05-2015     | 0.25          | 0.00         | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%2008%20-%20Printing%20Printing) |
-| **Totals**  |           | **8-16-2015** | **Ongoing**   | **4.25**      | **3.25**     | -     |
+| Exercise 09 | Printing  | 9-05-2015     | 9-05-2015     | 0.25          | 0.00         | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%2009%20-%20Printing%20Printing%20Printing) |
+| **Totals**  |           | **8-16-2015** | **Ongoing**   | **4.50**      | **3.25**     | -     |
