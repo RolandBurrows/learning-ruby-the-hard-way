@@ -16,7 +16,7 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 07 | Printing  | 9-04-2015     | 9-04-2015     | 0.25          | 0.00         | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%2007%20-%20More%20Printing) |
 | Exercise 08 | Printing  | 9-05-2015     | 9-05-2015     | 0.25          | 0.00         | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%2008%20-%20Printing%20Printing) |
 | Exercise 09 | Printing  | 9-05-2015     | 9-05-2015     | 0.25          | 0.00         | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%2009%20-%20Printing%20Printing%20Printing) |
-| Exercise 10 | Escapes   | 9-05-2015     | 9-05-2015     | 0.50          | 0.00         | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%2010%20-%What%20Was%20That) |
+| Exercise 10 | Escapes   | 9-05-2015     | 9-05-2015     | 0.50          | 0.00         | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%2010%20-%20What%20Was%20That) |
 | Exercise 11 | Input     | 9-05-2015     | 9-05-2015     | 0.50          | 0.00         | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%2011%20-%20More%20Questions) |
 | Exercise 12 | Input     | 9-06-2015     | 9-06-2015     | 0.25          | 0.25         | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%2012%20-%20Prompting%20People%20for%20Numbers) |
 | **Totals**  | -         | **8-16-2015** | **Ongoing**   | **5.75**      | **3.50**     | -     |
