@@ -19,4 +19,5 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 10 | Escapes   | 9-05-2015     | 9-05-2015     | 0.50          | 0.00         | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%2010%20-%20What%20Was%20That) |
 | Exercise 11 | Input     | 9-05-2015     | 9-05-2015     | 0.50          | 0.00         | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%2011%20-%20More%20Questions) |
 | Exercise 12 | Input     | 9-06-2015     | 9-06-2015     | 0.25          | 0.25         | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%2012%20-%20Prompting%20People%20for%20Numbers) |
-| **Totals**  | -         | **8-16-2015** | **Ongoing**   | **5.75**      | **3.50**     | -     |
+| Exercise 13 | Arguments | 9-07-2015     | 9-07-2015     | 0.25          | 0.75         | [Notes](https://github.com/RolandBurrows/learning-ruby-the-hard-way/tree/master/Exercise%2012%20-%20Paramters%20Unpacking%20Variables) |
+| **Totals**  | -         | **8-16-2015** | **Ongoing**   | **6.00**      | **4.25**     | -     |
