@@ -14,7 +14,7 @@ puts "Now, let's play a game. Which one is missing?"
 puts "List: #{one} #{three}"
 input = STDIN.gets.chomp
 puts "#{input}?"
-puts "The answer is: #{compare}"
+puts "The answer is: #{two}"
 if input.eql?(two)
   puts "You win!"
 else
