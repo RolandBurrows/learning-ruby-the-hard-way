@@ -1,4 +1,4 @@
-# http://learnrubythehardway.org/book/ex12.html
+# http://learnrubythehardway.org/book/ex13.html
 
 one, two, three = ARGV
 
@@ -8,10 +8,10 @@ puts "Your third variable is: #{three}"
 
 # Study Drills
 # 1. Lines print nothing in the variable spot.
-# 3.
+# 3. Combine gets.chomp with ARGV to make a script that gets more input from a user:
 
 puts "Now, let's play a game. Which one is missing?"
-puts "List: #{one} #{three}"
+puts "List: #{one}, #{three}"
 input = STDIN.gets.chomp
 puts "#{input}?"
 puts "The answer is: #{two}"
