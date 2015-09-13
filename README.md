@@ -22,4 +22,5 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 13 | Arguments | 9-07-2015     | 9-07-2015     | 0.25          | 0.75         | [Notes](Exercises%2011-20/Exercise%2013%20-%20Parameters%20Unpacking%20Variables) |
 | Exercise 14 | Arguments | 9-09-2015     | 9-09-2015     | 0.25          | 0.00         | [Notes](Exercises%2011-20/Exercise%2014%20-%20Prompting%20and%20Passing) |
 | Exercise 15 | Files     | 9-11-2015     | 9-11-2015     | 0.25          | 0.00         | [Notes](Exercises%2011-20/Exercise%2015%20-%20Reading%20Files) |
-| **Totals**  | -         | **8-16-2015** | **Ongoing**   | **6.50**      | **4.25**     | -     |
+| Exercise 16 | Files     | 9-12-2015     | 9-13-2015     | 0.25          | 0.25         | [Notes](Exercises%2011-20/Exercise%2016%20-%20Reading%20and%20Writing%20Files) |
+| **Totals**  | -         | **8-16-2015** | **Ongoing**   | **6.75**      | **4.5**     | -     |
