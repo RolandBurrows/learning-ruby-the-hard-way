@@ -1,4 +1,4 @@
-# http://learnrubythehardway.org/book/ex15.html
+# http://learnrubythehardway.org/book/ex16.html
 
 filename = ARGV.first
 
