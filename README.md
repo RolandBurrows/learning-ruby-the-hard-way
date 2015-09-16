@@ -24,4 +24,4 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 15 | Files     | 9-11-2015     | 9-11-2015     | 0.25          | 0.00         | [Notes](Exercises%2011-20/Exercise%2015%20-%20Reading%20Files) |
 | Exercise 16 | Files     | 9-12-2015     | 9-13-2015     | 0.25          | 0.25         | [Notes](Exercises%2011-20/Exercise%2016%20-%20Reading%20and%20Writing%20Files) |
 | Exercise 17 | Files     | 9-14-2015     | 9-14-2015     | 0.25          | 0.50         | [Notes](Exercises%2011-20/Exercise%2017%20-%20More%20Files) |
-| **Totals**  | -         | **8-16-2015** | **Ongoing**   | **7.00**      | **5.00**     | -     |
+| **Totals**  | **Ruby!** | **8-16-2015** | **Ongoing**   | **7.00**      | **5.00**     | -     |
