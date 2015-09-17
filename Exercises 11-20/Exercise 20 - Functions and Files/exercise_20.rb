@@ -36,5 +36,5 @@ current_line = current_line += 1
 print_a_line(current_line, current_file)
 
 # Study Drills
-# 4. seek - the method literally 'seeks', i.e. "goes to", "attempts to find", a given position (as an integer) in a stream.
-# 5. += is the "add AND assignment operator". It adds right operand to the left operand and assign the result to left operand.
+# 4. 'seek' - the method literally 'seeks', i.e. "goes to", "attempts to find", a given position (as an integer) in a stream.
+# 5. '+=' is the "add AND assignment operator". It adds right operand to the left operand and assign the result to left operand.
