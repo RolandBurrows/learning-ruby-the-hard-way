@@ -26,4 +26,5 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 17 | Files     | 9-14-2015     | 9-14-2015     | 0.25          | 0.50         | [Notes](Exercises%2011-20/Exercise%2017%20-%20More%20Files) |
 | Exercise 18 | Functions | 9-16-2015     | 9-16-2015     | 0.50          | 0.00         | [Notes](Exercises%2011-20/Exercise%2018%20-%20Names%20Variables%20Code%20Functions) |
 | Exercise 19 | Functions | 9-16-2015     | 9-16-2015     | 0.50          | 0.25         | [Notes](Exercises%2011-20/Exercise%2019%20-%20Functions%20and%20Variables) |
-| **Totals**  | **Ruby!** | **8-16-2015** | **Ongoing**   | **8.00**      | **5.25**     | -     |
+| Exercise 20 | Functions | 9-16-2015     | 9-16-2015     | 0.50          | 0.25         | [Notes](Exercises%2011-20/Exercise%2020%20-%20Functions%20and%20Files) |
+| **Totals**  | **Ruby!** | **8-16-2015** | **Ongoing**   | **8.50**      | **5.50**     | -     |
