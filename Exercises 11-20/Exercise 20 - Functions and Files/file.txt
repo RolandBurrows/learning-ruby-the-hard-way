@@ -1,0 +1,4 @@
+I have words in me.
+Lots of words.
+So many words.
+This line should not be printed by the three-line printer of exercise_20.rb
