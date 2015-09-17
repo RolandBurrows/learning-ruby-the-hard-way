@@ -24,3 +24,19 @@ puts "And we can combine the two, variables and math:"
 cheese_and_crackers(amount_of_cheese + 100, amount_of_crackers + 1000)
 
 puts "Yay!"
+
+# Study Drills
+# 3. Function x 10
+
+def chain_print(arg)
+  print(arg)
+end
+
+n = 1
+while n < 11
+  n.times do
+    chain_print("StudyDrill3 ")
+  end
+  puts "\n"
+  n+=1
+end
