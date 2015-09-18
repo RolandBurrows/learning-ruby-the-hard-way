@@ -4,11 +4,11 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 ### Progress Chart!
 | Exercise    | Topic     | Started       | Completed     | Grok Hours    | Drills       | Notes |
 |:-----------:|:---------:|:-------------:|:-------------:|:-------------:|:------------:|:-----:|
-| Preface     | Setup     | 8-16-2015     | 8-16-2015     | 0.25          |              | [Notes](Exercise%2000%20-%20Preface) |
-| Intro       | Setup     | 8-16-2015     | 8-16-2015     | 0.75          |              | [Notes](Exercise%2000%20-%20The%20Introduction) |
-| Setup       | Setup     | 8-19-2015     | 8-19-2015     | 0.25          |              | [Notes](Exercise%2000%20-%20The%20Setup) |
-| Exercise 01 | Printing  | 8-19-2015     | 8-19-2015     | 0.50          |              | [Notes](Exercises%2001-10/Exercise%2001%20-%20A%20Good%20First%20Program) |
-| Exercise 02 | Comments  | 8-23-2015     | 8-23-2015     | 0.25          |              | [Notes](Exercises%2001-10/Exercise%2002%20-%20Comments%20and%20Pound%20Characters) |
+| Preface     | Setup     | 8-16-2015     | 8-16-2015     | 0.25          | -            | [Notes](Exercise%2000%20-%20Preface) |
+| Intro       | Setup     | 8-16-2015     | 8-16-2015     | 0.75          | -            | [Notes](Exercise%2000%20-%20The%20Introduction) |
+| Setup       | Setup     | 8-19-2015     | 8-19-2015     | 0.25          | -            | [Notes](Exercise%2000%20-%20The%20Setup) |
+| Exercise 01 | Printing  | 8-19-2015     | 8-19-2015     | 0.50          | 0.00         | [Notes](Exercises%2001-10/Exercise%2001%20-%20A%20Good%20First%20Program) |
+| Exercise 02 | Comments  | 8-23-2015     | 8-23-2015     | 0.25          | 0.00         | [Notes](Exercises%2001-10/Exercise%2002%20-%20Comments%20and%20Pound%20Characters) |
 | Exercise 03 | Math      | 8-28-2015     | 9-01-2015     | 0.50          | 2.25         | [Notes](Exercises%2001-10/Exercise%2003%20-%20Numbers%20and%20Math) |
 | Exercise 04 | Variables | 9-02-2015     | 9-02-2015     | 0.50          | 0.25         | [Notes](Exercises%2001-10/Exercise%2004%20-%20Variables%20and%20Names) |
 | Exercise 05 | Variables | 9-02-2015     | 9-03-2015     | 0.50          | 0.50         | [Notes](Exercises%2001-10/Exercise%2005%20-%20More%20Variables%20and%20Printing) |
