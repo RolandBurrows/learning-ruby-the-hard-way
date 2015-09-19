@@ -21,3 +21,10 @@
 # Mercurial concs: Seemingly inflexible, doesn't scale well
 # The average person working on simple projects, don't care about the slight differences. Use whatever you prefer.
 # For a larger org with many developers and projects, Git is more effective.
+
+
+### Compare hosted DVCS options ###
+# Github - have personally evaluated
+# Bitbucket - need to investigate further
+# Gitlab - need to investigate further
+# Kiln - less promising, but should investigate further
