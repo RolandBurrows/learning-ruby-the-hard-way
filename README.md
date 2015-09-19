@@ -28,4 +28,5 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 19 | Functions | 9-16-2015     | 9-16-2015     | 0.50          | 0.25         | [Notes](Exercises%2011-20/Exercise%2019%20-%20Functions%20and%20Variables) |
 | Exercise 20 | Functions | 9-16-2015     | 9-16-2015     | 0.50          | 0.25         | [Notes](Exercises%2011-20/Exercise%2020%20-%20Functions%20and%20Files) |
 | Exercise 21 | Returns   | 9-17-2015     | 9-17-2015     | 0.25          | 0.00         | [Notes](Exercises%2021-30/Exercise%2021%20-%20Functions%20Can%20Return%20Something) |
-| **Totals**  | **Ruby!** | **8-16-2015** | **Ongoing**   | **8.75**      | **5.50**     | -     |
+| Exercise 22 | -         | 9-18-2015     | 9-18-2015     | 0.25          | 0.00         | [Notes](Exercises%2021-30/Exercise%2022%20-%20What%20Do%20You%20Know%20So%20Far) |
+| **Totals**  | **Ruby!** | **8-16-2015** | **Ongoing**   | **9.00**      | **5.50**     | -     |
