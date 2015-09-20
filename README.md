@@ -30,4 +30,5 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 21 | Returns   | 9-17-2015     | 9-17-2015     | 0.25          | 0.00         | [Notes](Exercises%2021-30/Exercise%2021%20-%20Functions%20Can%20Return%20Something) |
 | Exercise 22 | -         | 9-18-2015     | 9-18-2015     | 0.25          | 0.00         | [Notes](Exercises%2021-30/Exercise%2022%20-%20What%20Do%20You%20Know%20So%20Far) |
 | Exercise 23 | -         | 9-19-2015     | 9-19-2015     | 1.00          | 0.00         | [Notes](Exercises%2021-30/Exercise%2023%20-%20Read%20Some%20Code) |
-| **Totals**  | **Ruby!** | **8-16-2015** | **Ongoing**   | **10.00**     | **5.50**     | -     |
+| Exercise 24 | -         | 9-20-2015     | 9-20-2015     | 0.25          | 0.00         | [Notes](Exercises%2021-30/Exercise%2024%20-%20More%20Practice) |
+| **Totals**  | **Ruby!** | **8-16-2015** | **Ongoing**   | **10.25**     | **5.50**     | -     |
