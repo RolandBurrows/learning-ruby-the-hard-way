@@ -31,5 +31,5 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 22 | -         | 9-18-2015     | 9-18-2015     | 0.25          | 0.00         | [Notes](Exercises%2021-30/Exercise%2022%20-%20What%20Do%20You%20Know%20So%20Far) |
 | Exercise 23 | -         | 9-19-2015     | 9-19-2015     | 1.00          | 0.00         | [Notes](Exercises%2021-30/Exercise%2023%20-%20Read%20Some%20Code) |
 | Exercise 24 | -         | 9-20-2015     | 9-20-2015     | 0.25          | 0.00         | [Notes](Exercises%2021-30/Exercise%2024%20-%20More%20Practice) |
-| Exercise 25 | -         | 9-21-2015     | 9-21-2015     | 0.50          | 0.00         | [Notes](Exercises%2021-30/Exercise%2024%20-%20Even%20More%20Practice) |
+| Exercise 25 | -         | 9-21-2015     | 9-21-2015     | 0.50          | 0.00         | [Notes](Exercises%2021-30/Exercise%2025%20-%20Even%20More%20Practice) |
 | **Totals**  | **Ruby!** | **8-16-2015** | **Ongoing**   | **10.75**     | **5.50**     | -     |
