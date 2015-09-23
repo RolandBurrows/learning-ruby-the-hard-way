@@ -43,3 +43,16 @@ puts false == ("chunky" == "bacon" && (!(3 == 4 || 3 == 3)))
 puts false == (3 == 3 && (!("testing" == "testing" || "Ruby" == "Fun")))
 
 # 100%. Booyah!
+
+# Study Drills
+# 3. Comparison Operators
+#    ==  true if operands are equal
+#    !=  true if operands are not equal
+#    >   true if left operand is greater than right
+#    <   true if right operand is greater than left
+#    >=  true if left operand is greater or equal to right
+#    <=  true if right operand is greater or equal to left
+#   <=>  Returns: 0 if first operand equals second
+#                 1 if first operand is greater than the second
+#                 -1 if first operand is less than the second.
+#   ===  true if equality is within a when clause of a case statement
