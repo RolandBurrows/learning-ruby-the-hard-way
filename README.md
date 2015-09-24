@@ -35,4 +35,5 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 26 | -         | 9-21-2015     | 9-21-2015     | 0.50          | 0.00         | [Notes](Exercises%2021-30/Exercise%2026%20-%20Congratulations%20Take%20a%20Test) |
 | Exercise 27 | Logic     | 9-22-2015     | 9-22-2015     | 0.25          | 0.00         | [Notes](Exercises%2021-30/Exercise%2027%20-%20Memorizing%20Logic) |
 | Exercise 28 | Logic     | 9-22-2015     | 9-22-2015     | 0.75          | 0.25         | [Notes](Exercises%2021-30/Exercise%2028%20-%20Boolean%20Practice) |
-| **Totals**  | **Ruby!** | **8-16-2015** | **Ongoing**   | **12.25**     | **5.75**     | -     |
+| Exercise 29 | If        | 9-23-2015     | 9-23-2015     | 0.25          | 0.00         | [Notes](Exercises%2021-30/Exercise%2029%20-%20What%20If) |
+| **Totals**  | **Ruby!** | **8-16-2015** | **Ongoing**   | **12.50**     | **5.75**     | -     |
