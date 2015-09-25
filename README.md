@@ -37,4 +37,5 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 28 | Booleans  | 9-22-2015     | 9-22-2015     | 0.75          | 0.25         | [Notes](Exercises%2021-30/Exercise%2028%20-%20Boolean%20Practice) |
 | Exercise 29 | If        | 9-23-2015     | 9-23-2015     | 0.25          | 0.00         | [Notes](Exercises%2021-30/Exercise%2029%20-%20What%20If) |
 | Exercise 30 | Else-If   | 9-23-2015     | 9-23-2015     | 0.25          | 0.00         | [Notes](Exercises%2021-30/Exercise%2030%20-%20Else%20and%20If) |
-| **Totals**  | **Ruby!** | **8-16-2015** | **Ongoing**   | **12.75**     | **5.75**     | -     |
+| Exercise 31 | Nesting   | 9-24-2015     | 9-24-2015     | 0.25          | 0.00         | [Notes](Exercises%2031-40/Exercise%2031%20-%20Making%20Decisions) |
+| **Totals**  | **Ruby!** | **8-16-2015** | **Ongoing**   | **13.00**     | **5.75**     | -     |
