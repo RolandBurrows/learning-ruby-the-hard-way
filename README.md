@@ -38,6 +38,7 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 29 | If         | 9-23-2015     | 9-23-2015     | 0.25          | 0.00         | [Notes](Exercises%2021-30/Exercise%2029%20-%20What%20If) |
 | Exercise 30 | Else-If    | 9-23-2015     | 9-23-2015     | 0.25          | 0.00         | [Notes](Exercises%2021-30/Exercise%2030%20-%20Else%20and%20If) |
 | Exercise 31 | Nesting    | 9-24-2015     | 9-24-2015     | 0.25          | 0.00         | [Notes](Exercises%2031-40/Exercise%2031%20-%20Making%20Decisions) |
-| Exercise 32 | Arrays/For | 9-25-2015     | 9-25-2015     | 0.50          | 0.00         | [Notes](Exercises%2031-40/Exercise%2032%20-%20Loops%20and%20Arrays) |
+| Exercise 32 | For        | 9-25-2015     | 9-25-2015     | 0.50          | 0.00         | [Notes](Exercises%2031-40/Exercise%2032%20-%20Loops%20and%20Arrays) |
 | Exercise 33 | While      | 9-25-2015     | 9-25-2015     | 0.25          | 0.00         | [Notes](Exercises%2031-40/Exercise%2033%20-%20While%20Loops) |
-| **Totals**  | **Ruby!**  | **8-16-2015** | **Ongoing**   | **13.75**     | **5.75**     | -     |
+| Exercise 34 | Arrays     | 9-25-2015     | 9-25-2015     | 0.25          | 0.00         | [Notes](Exercises%2031-40/Exercise%2034%20-%20Accessing%20Elements%20of%20Arrays) |
+| **Totals**  | **Ruby!**  | **8-16-2015** | **Ongoing**   | **14.00**     | **5.75**     | -     |
