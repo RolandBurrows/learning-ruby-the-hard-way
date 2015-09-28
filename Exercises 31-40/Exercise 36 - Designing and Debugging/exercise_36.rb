@@ -50,30 +50,30 @@ def user_continue
   $stdin.gets
 end
 
-# def action_or_move(action_text, action_word, action_action, move_text, move_word, move_action)
-#   command_text("Do you wish to #{action_text}, or #{move_text}?")
-#   response = $stdin.gets.chomp
-#   if response.include? (action_word)
-#     action_action
-#   elsif response.include? (move_word)
-#     move_action
-#   else
-#     story_text("There's no time to goof around! The wizard will returning!")
-#     sykles_remaining
-#   end
-# end
+def user_unknown_entry
+  story_text("")
+  story_text("There's no time to goof around! The wizard will returning!")
+  sykles_remaining
+end
 
 ### Actions
 
-# def action_activate_time_dial
-#   story_text("You activate the time dial.")
-# end
+def actions_portal_room
+  story_text("The actions you can perform are:")
+end
 
-# def action_time_dial_options
-#   story_text("Here are the time dial options:")
-# end 
+def action_activate_time_dial
+  story_text("You activate the time dial.")
+end
 
 
+### Moves
+
+def move_away_from_portal
+  story_text("Which room do you wish to move to?")
+end
+
+### Rooms
 
 def intro
   command_text("GAME START")
@@ -99,7 +99,7 @@ def cellblock
   story_text("He raises the Rod, which begins to glow... but sputters out into darkness.")
   story_text("Kronus devishly grins, 'You are lucky, little imps. My precious must now feed on temporal energies. But afterwards...'")
   command_text("Kronus exits.")
-  story_text("Time to act! It will take him at least #{$sykles} sykles to recharge the Rod from the deepest well of the timestream.")
+  story_text("Time to act! It will take him at least #{$sykles-1} sykles to recharge the Rod from the deepest well of the timestream.")
   story_text("Having seen him draw the Rune of Opening on the gateway locks, you open your cage and exit the cellblock.")
   sykles_remaining
   user_continue
@@ -116,7 +116,25 @@ end
 def room_portal
   location_text("The portal room, the #{$time_dial}")
   command_text("The time portal is: (#{$time_portal}).")
-  story_text("Innumerable doors line the perimeter, but you know the three needed.")
+  command_text("Do you wish to perform an action, or move to a new room?")
+  user = "deciding"
+  until user == "done"
+    response = $stdin.gets.chomp
+    if response.include? ("move")
+      user = "done"
+    elsif response.include? ("action")
+      user = "done"
+    else
+      story_text("There's no time to goof around! The wizard will returning!")
+      sykles_remaining
+    end
+  end
+  if response.include? ("move")
+    move_away_from_portal
+  elsif response.include? ("action")
+    actions_portal_room
+  else
+  end  
 end
 
 ### Begin game sequence
