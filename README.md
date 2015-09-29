@@ -43,4 +43,5 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 34 | Arrays     | 9-25-2015     | 9-25-2015     | 0.25          | 0.00         | [Notes](Exercises%2031-40/Exercise%2034%20-%20Accessing%20Elements%20of%20Arrays) |
 | Exercise 35 | Functions  | 9-26-2015     | 9-26-2015     | 0.50          | 0.25         | [Notes](Exercises%2031-40/Exercise%2035%20-%20Branches%20and%20Functions) |
 | Exercise 36 | # design   | 9-26-2015     | 9-29-2015     | 2.00          | 0.00         | [Notes](Exercises%2031-40/Exercise%2036%20-%20Designing%20and%20Debugging) |
-| **Totals**  | **Ruby!**  | **8-16-2015** | **Ongoing**   | **16.50**     | **6.00**     | -     |
+| Exercise 37 | # review   | 9-29-2015     | 9-29-2015     | 0.25          | 0.25         | [Notes](Exercises%2031-40/Exercise%2037%20-%20Symbol%20Review) |
+| **Totals**  | **Ruby!**  | **8-16-2015** | **Ongoing**   | **16.75**     | **6.25**     | -     |
