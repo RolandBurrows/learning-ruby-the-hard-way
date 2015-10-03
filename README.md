@@ -45,4 +45,5 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 36 | # design   | 9-26-2015     | 9-29-2015     | 2.00          | 0.00         | [Notes](Exercises%2031-40/Exercise%2036%20-%20Designing%20and%20Debugging) |
 | Exercise 37 | # review   | 9-29-2015     | 9-29-2015     | 0.25          | 0.25         | [Notes](Exercises%2031-40/Exercise%2037%20-%20Symbol%20Review) |
 | Exercise 38 | Arrays     | 9-30-2015     | 10-01-2015    | 0.25          | 0.25         | [Notes](Exercises%2031-40/Exercise%2038%20-%20Doing%20Things%20to%20Arrays) |
-| **Totals**  | **Ruby!**  | **8-16-2015** | **Ongoing**   | **17.00**     | **6.50**     | -     |
+| Exercise 39 | Hashes     | 10-01-2015    | 10-02-2015    | 0.50          | 0.00         | [Notes](Exercises%2031-40/Exercise%2039%20-%20Hashes%20Oh%20Lovely%20Hashes) |
+| **Totals**  | **Ruby!**  | **8-16-2015** | **Ongoing**   | **17.50**     | **6.50**     | -     |
