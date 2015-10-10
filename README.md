@@ -47,7 +47,7 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 38 | Arrays     | 9-30-2015     | 10-01-2015    | 0.25          | 0.25         | [Notes](Exercises%2031-40/Exercise%2038%20-%20Doing%20Things%20to%20Arrays) |
 | Exercise 39 | Hashes     | 10-01-2015    | 10-02-2015    | 0.50          | 0.00         | [Notes](Exercises%2031-40/Exercise%2039%20-%20Hashes%20Oh%20Lovely%20Hashes) |
 | Exercise 40 | Classes    | 10-05-2015    | 10-06-2015    | 0.50          | 0.00         | [Notes](Exercises%2031-40/Exercise%2040%20-%20Modules%20Classes%20and%20Objects) |
-| Exercise 41 | OOP        | 10-07-2015    | 10-08-2015    | 0.75          | 0.00         | [Notes](Exercises%2041-52/Exercise%2041%20-%20Learnin%20To%20Spea%20Object%20Oriented) |
+| Exercise 41 | OOP        | 10-07-2015    | 10-08-2015    | 0.75          | 0.00         | [Notes](Exercises%2041-52/Exercise%2041%20-%20Learning%20To%20Speak%20Object%20Oriented) |
 | Exercise 42 | Objects    | 10-09-2015    | 10-09-2015    | 0.75          | 0.00         | [Notes](Exercises%2041-52/Exercise%2042%20-%20Is-A%20Has-A%20Objects%20and%20Classes) |
 | Exercise 43 |  |  |  |  |  |  |
 | Exercise 44 |  |  |  |  |  |  |
