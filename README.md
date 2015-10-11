@@ -49,7 +49,7 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 40 | Classes    | 10-05-2015    | 10-06-2015    | 0.50          | 0.00         | [Notes](Exercises%2031-40/Exercise%2040%20-%20Modules%20Classes%20and%20Objects) |
 | Exercise 41 | OOP        | 10-07-2015    | 10-08-2015    | 0.75          | 0.00         | [Notes](Exercises%2041-52/Exercise%2041%20-%20Learning%20To%20Speak%20Object%20Oriented) |
 | Exercise 42 | Objects    | 10-09-2015    | 10-09-2015    | 0.75          | 0.00         | [Notes](Exercises%2041-52/Exercise%2042%20-%20Is-A%20Has-A%20Objects%20and%20Classes) |
-| Exercise 43 |  |  |  |  |  |  |
+| Exercise 43 | _design_   | 10-10-2015    | 10-10-2015    | 0.50          | 0.25         | [Notes](Exercises%2041-52/Exercise%2043%20-%20Basic%20Object-Oriented%20Analysis%20and%20Design) |
 | Exercise 44 |  |  |  |  |  |  |
 | Exercise 45 |  |  |  |  |  |  |
 | Exercise 46 |  |  |  |  |  |  |
@@ -59,4 +59,4 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 50 |  |  |  |  |  |  |
 | Exercise 51 |  |  |  |  |  |  |
 | Exercise 52 |  |  |  |  |  |  |
-| **Totals**  | **Ruby**   | **8-16-2015** | **?**         | **19.50**     | **6.50**     | -     |
+| **Totals**  | **Ruby**   | **8-16-2015** | **?**         | **20.00,,  **     | **6.75**     | -     |
