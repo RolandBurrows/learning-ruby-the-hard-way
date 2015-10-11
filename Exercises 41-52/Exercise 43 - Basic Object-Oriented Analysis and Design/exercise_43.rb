@@ -124,9 +124,9 @@ class LaserWeaponArmory < Scene
     code = "#{rand(1..9)}#{rand(1..9)}"
     print "[keypad]> "
     guess = $stdin.gets.chomp
-    guesses = 0
+    guesses = 1
 
-    while guess != code && guesses < 10
+    while guess != ('punch' || (code && guesses < 10))
       text_buffer
       puts "BZZZZEDDD!"
       text_buffer
@@ -135,7 +135,7 @@ class LaserWeaponArmory < Scene
       guess = $stdin.gets.chomp
     end
 
-    if guess == code
+    if guess == ('punch' || code)
         text_buffer
         puts "The container clicks open and the seal breaks, letting gas out."
         puts "You grab the neutron bomb and run as fast as you can to the"
@@ -214,7 +214,7 @@ class EscapePod < Scene
     print "[pod #]> "
     guess = $stdin.gets.chomp.to_i
 
-    if guess != good_pod
+    if guess != (6 || good_pod)
       text_buffer
       puts "You jump into pod %s and hit the eject button." % guess
       puts "The pod escapes out into the void of space, then"
@@ -277,3 +277,10 @@ a_map = Map.new('central_corridor')
 a_game = Engine.new(a_map)
 
 a_game.play()
+
+
+# Study Drills
+
+# 2. Fixed by setting initial guess == 1.
+# 3. Via the 'return' statement at the end of the action sequence.
+# 4. Instant-completes added in two spots
