@@ -59,4 +59,4 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 50 |  |  |  |  |  |  |
 | Exercise 51 |  |  |  |  |  |  |
 | Exercise 52 |  |  |  |  |  |  |
-| **Totals**  | **Ruby**   | **8-16-2015** | **?**         | **20.00,,  **     | **6.75**     | -     |
+| **Totals**  | **Ruby**   | **8-16-2015** | **?**         | **20.25**     | **7.00**     | -     |
