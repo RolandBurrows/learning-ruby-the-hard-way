@@ -51,7 +51,7 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 42 | Objects     | 10-09-2015    | 10-09-2015    | 0.75          | 0.00         | [Notes](Exercises%2041-52/Exercise%2042%20-%20Is-A%20Has-A%20Objects%20and%20Classes) |
 | Exercise 43 | _design_    | 10-10-2015    | 10-10-2015    | 0.50          | 0.25         | [Notes](Exercises%2041-52/Exercise%2043%20-%20Basic%20Object-Oriented%20Analysis%20and%20Design) |
 | Exercise 44 | Inheritance | 10-11-2015    | 10-11-2015    | 0.25          | 0.25         | [Notes](Exercises%2041-52/Exercise%2044%20-%20Inheritance%20Versus%20Composition) |
-| Exercise 45 | _design_    | 10-11-2015    | 10-11-2015    | 0.25          | 0.00         | [Notes](Exercises%2041-52/Exercise%2044%20-%20You%20Make%20a%20Game) |
+| Exercise 45 | _design_    | 10-11-2015    | 10-11-2015    | 0.25          | 0.00         | [Notes](Exercises%2041-52/Exercise%2045%20-%20You%20Make%20a%20Game) |
 | Exercise 46 | _sample app_| 10-12-2015    | 10-12-2015    | 0.25          | 0.00         | [Notes](Exercises%2041-52/Exercise%2046%20-%20A%20Project%20Skeleton) |
 | Exercise 47 |  |  |  |  |  |  |
 | Exercise 48 |  |  |  |  |  |  |
