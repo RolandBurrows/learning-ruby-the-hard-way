@@ -53,7 +53,7 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 44 | Inheritance | 10-11-2015    | 10-11-2015    | 0.25          | 0.25         | [Notes](Exercises%2041-52/Exercise%2044%20-%20Inheritance%20Versus%20Composition) |
 | Exercise 45 | _design_    | 10-11-2015    | 10-11-2015    | 0.25          | 0.00         | [Notes](Exercises%2041-52/Exercise%2045%20-%20You%20Make%20a%20Game) |
 | Exercise 46 | _sample app_| 10-12-2015    | 10-12-2015    | 0.25          | 0.00         | [Notes](Exercises%2041-52/Exercise%2046%20-%20A%20Project%20Skeleton) |
-| Exercise 47 |  |  |  |  |  |  |
+| Exercise 47 | Testing     | 10-13-2015    | 10-14-2015    | 0.50          | 0.00         | [Notes](Exercises%2041-52/Exercise%2047%20-%20A%20Automated%20Testing) |
 | Exercise 48 |  |  |  |  |  |  |
 | Exercise 49 |  |  |  |  |  |  |
 | Exercise 50 |  |  |  |  |  |  |
