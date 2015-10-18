@@ -13,7 +13,13 @@ class Lexicon
     go: "verb",
     stop: "verb",
     kill: "verb",
-    eat: "verb"
+    eat: "verb",
+    the: "stop",
+    in: "stop",
+    of: "stop",
+    from: "stop",
+    at: "stop",
+    it: "stop"
   }
 
   def scan(werds)

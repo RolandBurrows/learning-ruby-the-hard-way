@@ -18,7 +18,7 @@ class TestLexicon < Test::Unit::TestCase
 								['direction', 'up'],
 								['direction', 'left'],
 								['direction', 'right'],
-								['direction', 'back'],
+								['direction', 'back']
 							 ]
 		result = @@lexicon.scan("south east west down up left right back")
 		assert_equal(criteria, result)
@@ -34,14 +34,22 @@ class TestLexicon < Test::Unit::TestCase
 		assert_equal(criteria, result)
   end
 
+  def test_stops()
+  	criteria = [['stop', 'the']]
+  	result = @@lexicon.scan("the")
+		assert_equal(criteria, result)
 
-  # def test_stops()
-		# assert_equal(Lexicon.scan("the"), [['stop', 'the']])
-		# result = Lexicon.scan("the in of")
-		# assert_equal(result, [['stop', 'the'],
-		# 	   ['stop', 'in'],
-		# 	   ['stop', 'of']])
-  # end
+		criteria = [
+								['stop', 'in'],
+			   				['stop', 'of'],
+			   				['stop', 'from'],
+			   				['stop', 'at'],
+			   				['stop', 'it']
+			   			 ]
+
+		result = @@lexicon.scan("in of from at it")
+		assert_equal(criteria, result)
+  end
 
 
   # def test_nouns()
