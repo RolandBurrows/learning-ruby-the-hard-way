@@ -34,8 +34,11 @@ class Lexicon
 
     words.each do |word|
       key = word.to_sym
+      number = word.to_i
       if @@lexi_dict.has_key?(key)
         @result.push([@@lexi_dict[key], word])
+      elsif number.is_a? Integer
+        @result.push(["number", number])
       end
     end
 

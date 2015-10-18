@@ -65,13 +65,12 @@ class TestLexicon < Test::Unit::TestCase
 		assert_equal(criteria, result)
   end
 
-  # def test_numbers()
-		# assert_equal(Lexicon.scan("1234"), [['number', 1234]])
-		# result = Lexicon.scan("3 91234")
-		# assert_equal(result, [['number', 3],
-		# 	   ['number', 91234]])
-  # end
-
+  def test_numbers()
+		assert_equal([['number', 1234]], @@lexicon.scan("1234"))
+		result = @@lexicon.scan("3 91234")
+		assert_equal([['number', 3],
+			   ['number', 91234]], result)
+  end
 
   # def test_errors()
 		# assert_equal(Lexicon.scan("ASDFADFASDF"), [['error', 'ASDFADFASDF']])
