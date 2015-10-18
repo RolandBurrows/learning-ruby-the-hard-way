@@ -6,3 +6,11 @@
 
 # Me: This had previously occurred to me.
 
+
+require './scanner_app/data/lexicon'
+
+stuff = $stdin.gets.chomp
+
+puts Lexicon.new.scan(stuff)
+
+# TODO: account for case insensitivity
