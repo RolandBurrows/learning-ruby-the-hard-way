@@ -1,18 +1,31 @@
 class Lexicon
 
+  @@lexi_dict = {
+    back: "direction",
+    east: "direction",
+    down: "direction",
+    left: "direction",
+    north: "direction",
+    south: "direction",
+    right: "direction",
+    up: "direction",
+    west: "direction"
+  }
+
   def scan(werds)
 
     words = werds.split
 
-    @pairings = []
+    @result = []
 
     words.each do |word|
-      if ["east", "north", "south", "west"].include? word
-        @pairings.push(['direction', word])
+      key = word.to_sym
+      if @@lexi_dict.has_key?(key)
+        @result.push([@@lexi_dict[key], word])
       end
     end
 
-    @pairings
+    return @result
 
   end 
 
