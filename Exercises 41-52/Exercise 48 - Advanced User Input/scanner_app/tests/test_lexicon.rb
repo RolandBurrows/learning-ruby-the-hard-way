@@ -11,7 +11,6 @@ class TestLexicon < Test::Unit::TestCase
 		assert_equal(criteria, result)
 
 		criteria = [
-								['direction', 'north'],
 								['direction', 'south'],
 								['direction', 'east'],
 								['direction', 'west'],
@@ -21,19 +20,19 @@ class TestLexicon < Test::Unit::TestCase
 								['direction', 'right'],
 								['direction', 'back'],
 							 ]
-		result = @@lexicon.scan("north south east west down up left right back")
+		result = @@lexicon.scan("south east west down up left right back")
 		assert_equal(criteria, result)
   end
 
-  # def test_verbs()
-  # 	criteria = [['verb', 'go']]
-  # 	result = @@lexicon.scan("go")
-		# assert_equal(criteria, result)
+  def test_verbs()
+  	criteria = [['verb', 'go']]
+  	result = @@lexicon.scan("go")
+		assert_equal(criteria, result)
 
-		# criteria = [['verb', 'go'], ['verb', 'kill'], ['verb', 'eat']]
-		# result = @@lexicon.scan("go kill eat")
-		# assert_equal(criteria, result)
-  # end
+		criteria = [['verb', 'eat'], ['verb', 'kill'], ['verb', 'stop']]
+		result = @@lexicon.scan("eat kill stop")
+		assert_equal(criteria, result)
+  end
 
 
   # def test_stops()

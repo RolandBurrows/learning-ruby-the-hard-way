@@ -9,7 +9,11 @@ class Lexicon
     south: "direction",
     right: "direction",
     up: "direction",
-    west: "direction"
+    west: "direction",
+    go: "verb",
+    stop: "verb",
+    kill: "verb",
+    eat: "verb"
   }
 
   def scan(werds)
