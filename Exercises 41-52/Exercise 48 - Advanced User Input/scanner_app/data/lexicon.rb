@@ -19,7 +19,11 @@ class Lexicon
     of: "stop",
     from: "stop",
     at: "stop",
-    it: "stop"
+    it: "stop",
+    bear: "noun",
+    cabinet: "noun",
+    door: "noun",
+    princess: "noun"
   }
 
   def scan(werds)

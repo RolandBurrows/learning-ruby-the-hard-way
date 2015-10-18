@@ -51,13 +51,19 @@ class TestLexicon < Test::Unit::TestCase
 		assert_equal(criteria, result)
   end
 
+  def test_nouns()
+  	criteria = [['noun', 'door']]
+  	result = @@lexicon.scan("door")
+		assert_equal(criteria, result)
 
-  # def test_nouns()
-		# assert_equal(Lexicon.scan("bear"), [['noun', 'bear']])
-		# result = Lexicon.scan("bear princess")
-		# assert_equal(result, [['noun', 'bear'],
-		# 	   ['noun', 'princess']])
-  # end
+		criteria = [
+						['noun', 'bear'],
+	   				['noun', 'cabinet'],
+	   				['noun', 'princess']
+	   			 ]
+		result = @@lexicon.scan("bear cabinet princess")
+		assert_equal(criteria, result)
+  end
 
   # def test_numbers()
 		# assert_equal(Lexicon.scan("1234"), [['number', 1234]])
