@@ -67,17 +67,19 @@ class TestLexicon < Test::Unit::TestCase
 
   def test_numbers()
 		assert_equal([['number', 1234]], @@lexicon.scan("1234"))
+
 		result = @@lexicon.scan("3 91234")
 		assert_equal([['number', 3],
 			   ['number', 91234]], result)
   end
 
-  # def test_errors()
-		# assert_equal(Lexicon.scan("ASDFADFASDF"), [['error', 'ASDFADFASDF']])
-		# result = Lexicon.scan("bear IAS princess")
-		# assert_equal(result, [['noun', 'bear'],
-		# 	   ['error', 'IAS'],
-		# 	   ['noun', 'princess']])
-  # end
+  def test_errors()
+		assert_equal([['error', 'ASDFADFASDF']], @@lexicon.scan("ASDFADFASDF"))
+
+		result = @@lexicon.scan("DOOF 90210 princess")
+		assert_equal([['error', 'DOOF'],
+			   ['number', 90210],
+			   ['noun', 'princess']], result)
+  end
 
 end

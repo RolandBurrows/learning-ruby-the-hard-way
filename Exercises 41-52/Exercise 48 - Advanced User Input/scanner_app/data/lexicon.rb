@@ -26,6 +26,12 @@ class Lexicon
     princess: "noun"
   }
 
+  def number_or_nil(string)
+    Integer(string || '')
+  rescue ArgumentError
+    nil
+  end
+
   def scan(werds)
 
     words = werds.split
@@ -34,15 +40,20 @@ class Lexicon
 
     words.each do |word|
       key = word.to_sym
-      number = word.to_i
+
+      num = number_or_nil(word)
+
       if @@lexi_dict.has_key?(key)
         @result.push([@@lexi_dict[key], word])
-      elsif number.is_a? Integer
-        @result.push(["number", number])
+      elsif num.is_a? Integer
+        @result.push(["number", num])
+      else
+        @result.push(["error", word])
       end
+
     end
 
-    return @result
+    @result
 
   end 
 
