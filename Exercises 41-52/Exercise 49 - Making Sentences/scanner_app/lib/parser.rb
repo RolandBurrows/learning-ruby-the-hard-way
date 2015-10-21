@@ -17,8 +17,8 @@ end
 
 def peek(word_list)
     if word_list
-        word = word_list[0]
-        return word[0]
+        word = word_list.split[0]
+        return word
     else
         return nil
     end
