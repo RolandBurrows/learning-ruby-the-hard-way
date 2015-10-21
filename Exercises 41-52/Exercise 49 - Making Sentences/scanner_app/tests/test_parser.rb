@@ -29,4 +29,8 @@ class TestParser < Test::Unit::TestCase
     assert_equal(criteria, result)
   end
 
+  def test_skip()
+    assert_equal("", nil)
+  end
+
 end
