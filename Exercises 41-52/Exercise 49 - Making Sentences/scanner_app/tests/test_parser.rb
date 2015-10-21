@@ -10,6 +10,23 @@ class TestParser < Test::Unit::TestCase
   	result = peek(@@werd_list)
 		assert_equal(criteria, result)
 
+    criteria = nil
+    result = peek(nil)
+    assert_equal(criteria, result)
+  end
+
+  def test_match()
+    criteria = "bear"
+    result = match(@@werd_list, "bear")
+    assert_equal(criteria, result)
+
+    criteria = nil
+    result = match(@@werd_list, "monkey")
+    assert_equal(criteria, result)
+
+    criteria = nil
+    result = match(nil, nil)
+    assert_equal(criteria, result)
   end
 
 end

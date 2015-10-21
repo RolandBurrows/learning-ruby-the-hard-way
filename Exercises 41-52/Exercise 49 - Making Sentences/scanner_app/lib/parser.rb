@@ -26,10 +26,10 @@ end
 
 def match(word_list, expecting)
     if word_list
-        word = word_list.shift
+        words = word_list.split
 
-        if word[0] == expecting
-            return word
+        if words.include? expecting
+            return expecting
         else
             return nil
         end
