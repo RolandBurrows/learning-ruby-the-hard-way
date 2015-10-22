@@ -32,8 +32,19 @@ class TestParser < Test::Unit::TestCase
     assert_equal(criteria, result)
   end
 
-  # def test_skip()
-  #   assert_equal("", nil)
-  # end
+  # TODO: Fix the issue where the following test is skipped, because the method is called 'skip'
+  def test_skip()
+    criteria = "bear"
+    result = skip(@@werd_list, "noun")
+    assert_equal(criteria, result)
+
+    criteria = "eat"
+    result = skip(@@werd_list, "verb")
+    assert_equal(criteria, result)
+
+    criteria = "the"
+    result = skip(@@werd_list, "stop")
+    assert_equal(criteria, result)
+  end
 
 end
