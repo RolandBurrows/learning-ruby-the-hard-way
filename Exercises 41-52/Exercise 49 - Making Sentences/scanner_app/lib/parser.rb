@@ -17,8 +17,8 @@ end
 
 def peek(word_list)
     if word_list
-        word = word_list.split[0]
-        return word
+        word = word_list[0]
+        return word[0]
     else
         return nil
     end
@@ -26,10 +26,10 @@ end
 
 def match(word_list, expecting)
     if word_list
-        words = word_list.split
+        word = word_list.shift
 
-        if words.include? expecting
-            return expecting
+        if word[0] == expecting
+            return word
         else
             return nil
         end

@@ -3,10 +3,13 @@ require "test/unit"
 
 class TestParser < Test::Unit::TestCase
 	
-  @@werd_list = "bear eat the honey"
+  @@werd_list = [['noun', 'bear'],
+                 ['verb', 'eat'],
+                 ['stop', 'the'],
+                 ['noun', 'honey']]
 
   def test_peek()
-  	criteria = "bear"
+  	criteria = "stop"
   	result = peek(@@werd_list)
 		assert_equal(criteria, result)
 
@@ -16,8 +19,8 @@ class TestParser < Test::Unit::TestCase
   end
 
   def test_match()
-    criteria = "bear"
-    result = match(@@werd_list, "bear")
+    criteria = ["noun", "bear"]
+    result = match(@@werd_list, "noun")
     assert_equal(criteria, result)
 
     criteria = nil
@@ -29,8 +32,8 @@ class TestParser < Test::Unit::TestCase
     assert_equal(criteria, result)
   end
 
-  def test_skip()
-    assert_equal("", nil)
-  end
+  # def test_skip()
+  #   assert_equal("", nil)
+  # end
 
 end
