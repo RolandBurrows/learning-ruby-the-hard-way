@@ -42,4 +42,19 @@ class TestParser < Test::Unit::TestCase
     assert_equal(criteria, result)
   end
 
+  def test_parse_subject()
+    test_list = @@werd_list.dup
+    criteria = ["noun", "bear"]
+    result = parse_subject(test_list)
+    assert_equal(criteria, result)
+  end
+
+  def test_parse_sentence()
+    test_list = @@werd_list.dup
+    result = parse_sentence(test_list)
+    assert_equal(result.subject, "bear")
+    assert_equal(result.verb, "eat")
+    assert_equal(result.object, "honey")
+  end
+
 end

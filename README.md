@@ -55,8 +55,8 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 46 | _sample app_| 10-12-2015    | 10-12-2015    | 0.25          | 0.00         | [Notes](Exercises%2041-52/Exercise%2046%20-%20A%20Project%20Skeleton) |
 | Exercise 47 | Testing     | 10-13-2015    | 10-14-2015    | 0.50          | 0.00         | [Notes](Exercises%2041-52/Exercise%2047%20-%20Automated%20Testing) |
 | Exercise 48 | Testing     | 10-15-2015    | 10-18-2015    | 2.75          | 0.25         | [Notes](Exercises%2041-52/Exercise%2048%20-%20Advanced%20User%20Input) |
-| Exercise 49 |  |  |  |  |  |  |
+| Exercise 49 | Testing     | 10-18-2015    | 10-22-2015    | 3.50          | 0.00         | [Notes](Exercises%2041-52/Exercise%2049%20-%20Making%20Sentences) |
 | Exercise 50 |  |  |  |  |  |  |
 | Exercise 51 |  |  |  |  |  |  |
 | Exercise 52 |  |  |  |  |  |  |
-| **Totals**  | **Ruby**   | **8-16-2015** | **?**         | **24.00**     | **7.25**     | -     |
+| **Totals**  | **Ruby**   | **8-16-2015** | **?**         | **27.50**     | **7.25**     | -     |
