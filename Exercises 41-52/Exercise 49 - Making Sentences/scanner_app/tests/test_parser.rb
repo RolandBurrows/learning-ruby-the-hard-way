@@ -32,7 +32,9 @@ class TestParser < Test::Unit::TestCase
     assert_equal(criteria, result)
   end
 
-  # TODO: Fix the issue where the following test is skipped, because the method is called 'skip'
+  # Warning: Run on windows PowerShell and/or Ruby 2.0.0 will
+  #          cause this test to be literally skipped
+  # Test can be run with CMD on Ruby 2.2.3
   def test_skip()
     criteria = "bear"
     result = skip(@@werd_list, "noun")
