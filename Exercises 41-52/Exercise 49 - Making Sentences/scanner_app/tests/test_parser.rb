@@ -3,14 +3,12 @@ require "test/unit"
 
 class TestParser < Test::Unit::TestCase
 	
-  @@werd_list = [['noun', 'bear'],
-                 ['verb', 'eat'],
-                 ['stop', 'the'],
-                 ['noun', 'honey']]
+  @@werd_list = [['noun', 'bear'], ['verb', 'eat'], ['stop', 'the'], ['noun', 'honey']]
 
   def test_peek()
-  	criteria = "stop"
-  	result = peek(@@werd_list)
+    test_list = @@werd_list.dup
+  	criteria = "noun"
+  	result = peek(test_list)
 		assert_equal(criteria, result)
 
     criteria = nil
@@ -19,12 +17,14 @@ class TestParser < Test::Unit::TestCase
   end
 
   def test_match()
+    test_list = @@werd_list.dup
     criteria = ["noun", "bear"]
-    result = match(@@werd_list, "noun")
+    result = match(test_list, "noun")
     assert_equal(criteria, result)
 
+    test_list = @@werd_list.dup
     criteria = nil
-    result = match(@@werd_list, "monkey")
+    result = match(test_list, "adjective")
     assert_equal(criteria, result)
 
     criteria = nil
@@ -36,16 +36,9 @@ class TestParser < Test::Unit::TestCase
   #          cause this test to be literally skipped
   # Test can be run with CMD on Ruby 2.2.3
   def test_skip()
-    criteria = "bear"
-    result = skip(@@werd_list, "noun")
-    assert_equal(criteria, result)
-
-    criteria = "eat"
-    result = skip(@@werd_list, "verb")
-    assert_equal(criteria, result)
-
-    criteria = "the"
-    result = skip(@@werd_list, "stop")
+    test_list = @@werd_list.dup
+    criteria = nil
+    result = skip(test_list, "junk")
     assert_equal(criteria, result)
   end
 
