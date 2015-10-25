@@ -21,3 +21,8 @@
 
 # 5. Finally, Sinatra has handled the request and sends this response to the browser, which is what
 # you are seeing.
+
+
+### Study Drills
+
+# 4. Hwowdy! implemented
