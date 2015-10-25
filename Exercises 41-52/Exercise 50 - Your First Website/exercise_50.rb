@@ -25,4 +25,7 @@
 
 ### Study Drills
 
+# 3. Skimmed: https://en.wikipedia.org/wiki/HTML5
+#             https://en.wikipedia.org/wiki/Cascading_Style_Sheets
+
 # 4. Hwowdy! implemented
