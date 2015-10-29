@@ -58,5 +58,5 @@ Archived notes of my Ruby learnings via http://learnrubythehardway.org/book/.
 | Exercise 49 | Testing     | 10-18-2015    | 10-22-2015    | 3.50          | 0.00         | [Notes](Exercises%2041-52/Exercise%2049%20-%20Making%20Sentences) |
 | Exercise 50 | Sinatra app | 10-22-2015    | 10-25-2015    | 1.00          | 0.25         | [Notes](Exercises%2041-52/Exercise%2050%20-%20Your%20First%20Website) |
 | Exercise 51 | Sinatra app | 10-26-2015    | 10-27-2015    | 0.75          | 0.00         | [Notes](Exercises%2041-52/Exercise%2051%20-%20Getting%20Input%20from%20a%20Browser) |
-| Exercise 52 |  |  |  |  |  |  |
-| **Totals**  | **Ruby**   | **8-16-2015** | **?**         | **29.25**     | **7.50**     | -     |
+| Exercise 52 | Sinatra app | 10-28-2015    | 10-28-2015    | 0.25          | 0.00         | [Notes](Exercises%2041-52/Exercise%2052%20-%20The%20Start%20Of%20Your%20Web%20Game) |
+| **Totals**  | **Ruby**   | **8-16-2015** | **?**         | **29.50**     | **7.50**     | -     |
